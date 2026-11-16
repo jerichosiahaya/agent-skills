@@ -18,9 +18,9 @@ agent-skills/
 
 Each skill must have a `SKILL.md` with valid frontmatter containing at least `name` and `description`.
 
-## Planned skills
+## Available skills
 
-- `vibetrap` — a slow, conservative review workflow for understanding architecture and business logic before approving AI-assisted code changes.
+- [`vibetrap`](skills/vibetrap/SKILL.md) — a slow, conservative review workflow for understanding architecture and business logic before approving AI-assisted code changes.
 
 ## Using a skill with Pi
 
